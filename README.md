@@ -123,17 +123,19 @@ iv) Using Median Filter
 
 
 ### 2. Sharpening Filters
-</br>
+
 
 i) Using Laplacian Kernal
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/aeeea623-cf8a-43c4-9124-74bf5ba34b0f)
 
 
 ii) Using Laplacian Operator
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/e8cc7c7e-5bd8-4dd1-a8d2-2816e8d6b18c)
 
 
