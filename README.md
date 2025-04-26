@@ -103,20 +103,22 @@ Original Image
 
 
 i) Using Averaging Filter
-
+<br>
 ![image](https://github.com/user-attachments/assets/7d468330-b813-43d5-99c8-ee2705b76181)
 
 ii)Using Weighted Averaging Filter
-
+<br>
 ![image](https://github.com/user-attachments/assets/17ad219a-44fe-4681-a165-42ae07e926ca)
 
 
 iii)Using Gaussian Filter
-
+<br>
 ![image](https://github.com/user-attachments/assets/5efff4e0-1c1f-4f7f-bf11-e1ff85f90ad2)
 
 
 iv) Using Median Filter
+<br>
+
 ![image](https://github.com/user-attachments/assets/e9bf7412-b85e-4f54-bf1f-0581a98385ef)
 
 
@@ -124,10 +126,14 @@ iv) Using Median Filter
 </br>
 
 i) Using Laplacian Kernal
+
+<br>
 ![image](https://github.com/user-attachments/assets/aeeea623-cf8a-43c4-9124-74bf5ba34b0f)
 
 
 ii) Using Laplacian Operator
+
+<br>
 ![image](https://github.com/user-attachments/assets/e8cc7c7e-5bd8-4dd1-a8d2-2816e8d6b18c)
 
 
